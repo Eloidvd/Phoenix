@@ -1,4 +1,6 @@
 .img-center {
 	margin: auto;
+	display: block;
 	border-radius:10px;
+	margin-bottom: 30px;
 }

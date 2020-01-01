@@ -17,6 +17,9 @@
 @import url("Components/small-bouton.css");
 @import url("Components/red-floating-container.css");
 @import url("Components/img-link.css");
+@import url("Components/colonne-gauche.css");
+@import url("Components/banière-haut.css");
+@import url("Components/header.css");
 
 
 
@@ -38,9 +41,20 @@ h1 {
 }
 
 p {
-	font-family: 'Ubuntu', cursive;
+	font-famizly: 'Ubuntu', cursive;
 }
 
 a {
 	text-decoration: none;
+}
+
+#Suiveznous {
+	margin-top: 340px;
+}
+
+#logo {
+	display: block;
+	width: 165px;
+	border-radius: 15px;
+	margin: 0px 0px 10px 20px;
 }
